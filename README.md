@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Gael Morales 👋
 
-<!--
-**GaelMoralesHub/GaelMoralesHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Sobre mí
+Estudiante de Ingeniería en Computación en CUAltos con interés en:
+- Desarrollo web
+- Programación en C y Python
+- Ciberseguridad
 
-Here are some ideas to get you started:
+### 🎯 Metas profesionales
+- Mejorar mis habilidades en Git y GitHub
+- Crear proyectos personales
+- Desarrollar un portafolio profesional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contacto
+Puedes encontrarme aquí mismo en GitHub.
