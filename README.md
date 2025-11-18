@@ -1,15 +1,15 @@
-# ¡Hola! Soy Gael Morales 👋
+# ¡Hola! Soy Gael Morales
 
-### 🎓 Sobre mí
+###
 Estudiante de Ingeniería en Computación en CUAltos con interés en:
 - Desarrollo web
 - Programación en C y Python
 - Ciberseguridad
 
-### 🎯 Metas profesionales
+### Metas
 - Mejorar mis habilidades en Git y GitHub
 - Crear proyectos personales
 - Desarrollar un portafolio profesional
 
-### 📫 Contacto
-Puedes encontrarme aquí mismo en GitHub.
+### Contacto
+gaelmoralesh1306@gmail.com / gael.morales8966@alumnos.udg.mx
